@@ -1,4 +1,4 @@
-import { Interfaces } from "@arkecosystem/crypto";
+import { Interfaces } from "@covid19-labs/crypto";
 
 /**
  * Calculate the expiration height of a transaction.

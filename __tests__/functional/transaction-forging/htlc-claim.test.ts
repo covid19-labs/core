@@ -1,4 +1,4 @@
-import { Crypto, Enums, Identities } from "@arkecosystem/crypto";
+import { Crypto, Enums, Identities } from "@covid19-labs/crypto";
 import { TransactionFactory } from "../../helpers/transaction-factory";
 import { secrets } from "../../utils/config/testnet/delegates.json";
 import { htlcSecretHex, htlcSecretHashHex } from "../../utils/fixtures";

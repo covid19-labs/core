@@ -1,5 +1,5 @@
 import { Container, Logger } from "@arkecosystem/core-interfaces";
-import { Managers } from "@arkecosystem/crypto";
+import { Managers } from "@covid19-labs/crypto";
 import { start } from "@arkecosystem/exchange-json-rpc";
 import { defaults } from "./defaults";
 

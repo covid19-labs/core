@@ -1,6 +1,6 @@
 import { State } from "@arkecosystem/core-interfaces";
 import { delegateCalculator, formatTimestamp } from "@arkecosystem/core-utils";
-import { Utils } from "@arkecosystem/crypto";
+import { Utils } from "@covid19-labs/crypto";
 
 export const transformDelegate = (delegate: State.IWallet) => {
     const attributes: State.IWalletDelegateAttributes = delegate.getAttribute("delegate");

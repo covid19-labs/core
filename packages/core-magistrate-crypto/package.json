@@ -21,7 +21,7 @@
         "prepublishOnly": "yarn build"
     },
     "dependencies": {
-        "@arkecosystem/crypto": "^2.6.11",
+        "@covid19-labs/crypto": "^2.6.11",
         "bytebuffer": "^5.0.1"
     },
     "publishConfig": {

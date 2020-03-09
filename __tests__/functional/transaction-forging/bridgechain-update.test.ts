@@ -1,5 +1,5 @@
 import { Container, Database } from "@arkecosystem/core-interfaces";
-import { Identities, Utils } from "@arkecosystem/crypto";
+import { Identities, Utils } from "@covid19-labs/crypto";
 import { generateMnemonic } from "bip39";
 import delay from "delay";
 import { TransactionFactory } from "../../helpers/transaction-factory";

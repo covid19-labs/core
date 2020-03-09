@@ -13,6 +13,6 @@
   "client": {
     "token": "C19",
     "symbol": "C19",
-    "explorer": "http://167.179.86.184:4200"
+    "explorer": "http://explorer.covidchain.com"
   }
 }

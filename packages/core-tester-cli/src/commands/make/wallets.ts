@@ -1,4 +1,4 @@
-import { Identities, Interfaces } from "@arkecosystem/crypto";
+import { Identities, Interfaces } from "@covid19-labs/crypto";
 import { flags } from "@oclif/command";
 import { generateMnemonic } from "bip39";
 import { writeFileSync } from "fs";

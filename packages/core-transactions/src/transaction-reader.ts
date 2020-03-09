@@ -1,5 +1,5 @@
 import { Database } from "@arkecosystem/core-interfaces";
-import { Transactions } from "@arkecosystem/crypto";
+import { Transactions } from "@covid19-labs/crypto";
 
 export class TransactionReader {
     public static async create(

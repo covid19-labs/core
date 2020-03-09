@@ -1,7 +1,7 @@
 {
-    "name": "@arkecosystem/crypto",
+    "name": "@covid19-labs/crypto",
     "version": "2.6.11",
-    "description": "Crypto utilities for the ARK Blockchain",
+    "description": "Crypto utilities for the Covid19 Blockchain",
     "license": "MIT",
     "contributors": [
         "François-Xavier Thoorens <fx.thoorens@ark.io>",

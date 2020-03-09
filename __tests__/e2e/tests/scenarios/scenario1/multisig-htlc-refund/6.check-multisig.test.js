@@ -2,7 +2,7 @@
 
 const testUtils = require("../../../../lib/utils/test-utils");
 const utils = require("./utils");
-const { Enums } = require("@arkecosystem/crypto");
+const { Enums } = require("@covid19-labs/crypto");
 
 describe("Check confirmed and unconfirmed transactions", () => {
     it("should have valid transactions forged and invalid not forged", async () => {

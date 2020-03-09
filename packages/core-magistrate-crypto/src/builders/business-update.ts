@@ -1,4 +1,4 @@
-import { Interfaces, Transactions, Utils } from "@arkecosystem/crypto";
+import { Interfaces, Transactions, Utils } from "@covid19-labs/crypto";
 import { MagistrateTransactionGroup, MagistrateTransactionType } from "../enums";
 import { IBusinessUpdateAsset } from "../interfaces";
 import { BusinessUpdateTransaction } from "../transactions";

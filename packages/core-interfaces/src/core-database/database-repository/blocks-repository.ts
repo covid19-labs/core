@@ -1,4 +1,4 @@
-import { Interfaces, Utils } from "@arkecosystem/crypto";
+import { Interfaces, Utils } from "@covid19-labs/crypto";
 import { Database } from "../..";
 import { IBlocksPaginated } from "../business-repository";
 import { ISearchParameters } from "../search";

@@ -1,6 +1,6 @@
 import { Wallets } from "@arkecosystem/core-state";
-import { Utils } from "@arkecosystem/crypto";
-import { Identities } from "@arkecosystem/crypto/src";
+import { Utils } from "@covid19-labs/crypto";
+import { Identities } from "@covid19-labs/crypto/src";
 
 export const generateRound = (delegates, round) => {
     return delegates.map(delegate =>

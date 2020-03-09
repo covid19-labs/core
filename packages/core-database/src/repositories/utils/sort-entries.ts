@@ -1,5 +1,5 @@
 import { Database } from "@arkecosystem/core-interfaces";
-import { Utils } from "@arkecosystem/crypto";
+import { Utils } from "@covid19-labs/crypto";
 import { orderBy } from "@arkecosystem/utils";
 import dottie from "dottie";
 import { getProperty } from "./get-property";

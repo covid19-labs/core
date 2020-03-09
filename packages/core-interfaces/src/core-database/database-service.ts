@@ -1,4 +1,4 @@
-import { Interfaces } from "@arkecosystem/crypto";
+import { Interfaces } from "@covid19-labs/crypto";
 import { IWallet, IWalletManager } from "../core-state/wallets";
 import { EventEmitter, Logger } from "../index";
 import { IRoundInfo } from "../shared";

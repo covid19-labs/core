@@ -1,5 +1,5 @@
 import { TransactionPool } from "@arkecosystem/core-interfaces";
-import { Interfaces } from "@arkecosystem/crypto";
+import { Interfaces } from "@covid19-labs/crypto";
 
 export interface ITransactionsCached {
     added: Interfaces.ITransactionData[];

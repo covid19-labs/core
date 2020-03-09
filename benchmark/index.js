@@ -3,7 +3,7 @@ const {
 } = require('@faustbrian/benchmarker');
 const {
     Managers
-} = require("@arkecosystem/crypto");
+} = require("@covid19-labs/crypto");
 
 Managers.configManager.setFromPreset("mainnet");
 

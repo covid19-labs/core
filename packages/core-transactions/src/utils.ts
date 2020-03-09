@@ -1,4 +1,4 @@
-import { Interfaces, Managers, Utils } from "@arkecosystem/crypto";
+import { Interfaces, Managers, Utils } from "@covid19-labs/crypto";
 
 export const isRecipientOnActiveNetwork = (transaction: Interfaces.ITransactionData): boolean => {
     return (

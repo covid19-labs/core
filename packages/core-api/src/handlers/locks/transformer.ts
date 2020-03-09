@@ -1,5 +1,5 @@
 import { formatTimestamp } from "@arkecosystem/core-utils";
-import { Interfaces } from "@arkecosystem/crypto";
+import { Interfaces } from "@covid19-labs/crypto";
 
 export const transformLock = (lock: Interfaces.IHtlcLock) => {
     return {

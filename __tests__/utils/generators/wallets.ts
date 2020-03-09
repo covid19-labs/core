@@ -1,4 +1,4 @@
-import { Identities, Managers } from "@arkecosystem/crypto";
+import { Identities, Managers } from "@covid19-labs/crypto";
 import { generateMnemonic } from "bip39";
 
 export const generateWallets = (network, quantity = 10) => {

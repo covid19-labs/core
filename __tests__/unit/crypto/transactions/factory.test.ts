@@ -1,6 +1,6 @@
 import "jest-extended";
 
-import { Interfaces, Utils } from "@arkecosystem/crypto";
+import { Interfaces, Utils } from "@covid19-labs/crypto";
 import {
     InvalidTransactionBytesError,
     TransactionSchemaError,

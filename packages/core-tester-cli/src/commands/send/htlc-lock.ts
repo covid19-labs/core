@@ -1,4 +1,4 @@
-import { Identities } from "@arkecosystem/crypto";
+import { Identities } from "@covid19-labs/crypto";
 import { flags } from "@oclif/command";
 import { satoshiFlag } from "../../flags";
 import { htlcSecretHashHex } from "../../shared/htlc-secret";

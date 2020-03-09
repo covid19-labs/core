@@ -1,4 +1,4 @@
-import { Identities, Managers, Utils } from "@arkecosystem/crypto";
+import { Identities, Managers, Utils } from "@covid19-labs/crypto";
 
 Managers.configManager.setFromPreset("testnet");
 

@@ -1,4 +1,4 @@
-import { Enums } from "@arkecosystem/crypto";
+import { Enums } from "@covid19-labs/crypto";
 
 const { MultiPayment } = Enums.TransactionType;
 

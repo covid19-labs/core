@@ -1,4 +1,4 @@
-import { Interfaces } from "@arkecosystem/crypto";
+import { Interfaces } from "@covid19-labs/crypto";
 import { IParameters } from "./parameters";
 
 export interface ITransactionsPaginated {

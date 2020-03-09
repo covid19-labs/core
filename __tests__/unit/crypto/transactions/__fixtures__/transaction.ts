@@ -1,4 +1,4 @@
-import { Utils } from "@arkecosystem/crypto";
+import { Utils } from "@covid19-labs/crypto";
 
 export const transaction = {
     version: 1,

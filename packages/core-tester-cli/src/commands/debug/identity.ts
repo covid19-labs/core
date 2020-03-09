@@ -1,4 +1,4 @@
-import { Identities, Interfaces, Managers, Types } from "@arkecosystem/crypto";
+import { Identities, Interfaces, Managers, Types } from "@covid19-labs/crypto";
 import { flags } from "@oclif/command";
 import { handleOutput } from "../../utils";
 import { BaseCommand } from "../command";

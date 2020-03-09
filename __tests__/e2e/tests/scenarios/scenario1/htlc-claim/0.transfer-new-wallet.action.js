@@ -1,6 +1,6 @@
 "use strict";
 
-const { Managers, Utils } = require("@arkecosystem/crypto");
+const { Managers, Utils } = require("@covid19-labs/crypto");
 const utils = require("./utils");
 const testUtils = require("../../../../lib/utils/test-utils");
 const { delegates } = require("../../../../lib/utils/testnet");

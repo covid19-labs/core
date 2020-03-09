@@ -1,4 +1,4 @@
-import { Utils } from "@arkecosystem/crypto/src";
+import { Utils } from "@covid19-labs/crypto/src";
 
 /* tslint:disable:max-line-length */
 export const blocks = [

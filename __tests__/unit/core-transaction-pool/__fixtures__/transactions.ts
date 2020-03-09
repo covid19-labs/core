@@ -1,4 +1,4 @@
-import { Utils } from "@arkecosystem/crypto";
+import { Utils } from "@covid19-labs/crypto";
 import { TransactionFactory } from "../../../helpers/transaction-factory";
 import { delegates } from "../../../utils/fixtures/unitnet/delegates";
 

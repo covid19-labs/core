@@ -1,4 +1,4 @@
-import { Transactions } from "@arkecosystem/crypto";
+import { Transactions } from "@covid19-labs/crypto";
 
 export {};
 

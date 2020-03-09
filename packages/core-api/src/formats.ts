@@ -1,5 +1,5 @@
 import { app } from "@arkecosystem/core-container";
-import { Utils } from "@arkecosystem/crypto";
+import { Utils } from "@covid19-labs/crypto";
 import { Ajv } from "ajv";
 import * as ipAddress from "ip";
 

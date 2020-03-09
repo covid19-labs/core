@@ -1,7 +1,7 @@
 const {
     Blocks,
     Managers,
-} = require('@arkecosystem/crypto')
+} = require('@covid19-labs/crypto')
 
 const dataEmpty = require('../helpers').getJSONFixture('block/deserialized/no-transactions');
 const dataFull = require('../helpers').getJSONFixture('block/deserialized/transactions');

@@ -1,6 +1,6 @@
 const {
     Blocks
-} = require('@arkecosystem/crypto')
+} = require('@covid19-labs/crypto')
 
 const data = require('../helpers').getJSONFixture('block/deserialized/transactions');
 

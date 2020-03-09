@@ -2,7 +2,7 @@
 
 import { app } from "@arkecosystem/core-container";
 import { EventEmitter, Logger, State } from "@arkecosystem/core-interfaces";
-import { Interfaces, Managers } from "@arkecosystem/crypto";
+import { Interfaces, Managers } from "@covid19-labs/crypto";
 import assert from "assert";
 import { OrderedMap, OrderedSet, Seq } from "immutable";
 

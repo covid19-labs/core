@@ -1,5 +1,5 @@
 import { Logger } from "@arkecosystem/core-interfaces";
-import { Crypto, Interfaces } from "@arkecosystem/crypto";
+import { Crypto, Interfaces } from "@covid19-labs/crypto";
 
 export const isBlockChained = (
     previousBlock: Interfaces.IBlockData,
